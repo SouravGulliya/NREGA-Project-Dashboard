@@ -3,7 +3,8 @@
 This project is a **Power BI dashboard** designed to analyze and visualize **NREGA (National Rural Employment Guarantee Act)** data.  
 It helps track **job allocation, worker participation, fund utilization, and overall project performance**.
 
----
+<img width="968" height="542" alt="image" src="https://github.com/user-attachments/assets/96a628e7-11a2-4e1b-9dde-fd1873f37fb8" />
+
 
 ## 📑 Features
 - 📌 Interactive **Power BI dashboard**  
